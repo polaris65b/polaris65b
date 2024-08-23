@@ -2,6 +2,9 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=polaris_seo)](https://solved.ac/polaris_seo/)
 
+# My blog
+https://blog.naver.com/polaris65b
+
 <!--
 **polaris65b/polaris65b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
