@@ -3,9 +3,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=polaris_seo)](https://solved.ac/polaris_seo/)
 
 # My blog
-https://blog.naver.com/polaris65b
 
-https://velog.io/@polaris65b
+https://polaris65b.tistory.com/
 
 # Studying skill
 - java
