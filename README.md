@@ -12,6 +12,8 @@ https://polaris65b.tistory.com/
 
 - python
 
+- C
+
 # stack
 
 <!--
