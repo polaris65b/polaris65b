@@ -12,6 +12,8 @@ https://polaris65b.tistory.com/
 - C
 
 # stack
+- java
+- JPA
 
 <!--
 **polaris65b/polaris65b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
