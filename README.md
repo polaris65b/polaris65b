@@ -1,7 +1,5 @@
 ## polaris65b's GitHub 👋
 
-// [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=polaris_seo)](https://solved.ac/polaris_seo/)
-
 # My blog
 
 https://polaris65b.tistory.com/
