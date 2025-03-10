@@ -1,6 +1,6 @@
 ## polaris65b's GitHub 👋
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=polaris_seo)](https://solved.ac/polaris_seo/)
+// [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=polaris_seo)](https://solved.ac/polaris_seo/)
 
 # My blog
 
@@ -8,12 +8,14 @@ https://polaris65b.tistory.com/
 
 # Studying skill
 - java
+- Spring Boot
 - python
-- C
+  
 
 # stack
 - java
 - JPA
+- Spring Boot
 
 <!--
 **polaris65b/polaris65b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
