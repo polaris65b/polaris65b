@@ -10,6 +10,7 @@ https://polaris65b.tistory.com/
 - python
 - prometheus
 - grafana
+- docker
   
 
 # stack
