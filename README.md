@@ -4,19 +4,14 @@
 
 https://polaris65b.tistory.com/
 
-# Studying skill
+# Stack
 - java
 - Spring Boot
-- python
 - prometheus
 - grafana
 - docker
+- python
   
-
-# stack
-- java
-- JPA
-- Spring Boot
 
 <!--
 **polaris65b/polaris65b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
